@@ -1,3 +1,5 @@
+# Exercise 9
+
 def get_area_under_graph(graph):   # TODO: Rename this function to reflect what it's doing.
     """Calculate the area under the input graph."""
     # bla bla bla.

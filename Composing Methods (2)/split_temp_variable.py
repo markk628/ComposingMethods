@@ -1,3 +1,5 @@
+# Exercise 7
+
 # NY Burger
 patty = 70 # [gr]
 pickle = 20 # [gr]
